@@ -1,4 +1,4 @@
-# Time Series Analysis: Practical Notebook
+# Time Series Analysis: Practical Notebook 
 
 This repository contains a consolidated Jupyter Notebook that combines three distinct lab works on time series analysis. Each lab explores a specific aspect of time series modeling and estimation, utilizing theoretical concepts and practical implementation. Below is a brief overview of each lab and the skills applied:
 
